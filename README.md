@@ -40,10 +40,6 @@ Persistent Data: Data in the cart and wishlist are saved in local storage, so us
 # 🛠️ Technologies Used
 React – Frontend library for building UI
 
-React DOM – Rendering React components in the browser
-
-React Router DOM v7 – Client-side routing
-
 React Helmet Async – Manage <head> tags (title, meta, etc.) asynchronously
 
 React Icons – Popular icon library for React
