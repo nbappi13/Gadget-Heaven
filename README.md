@@ -4,7 +4,7 @@
 https://gadget-heaven-tech-hub.netlify.app/
 
 # Repository Link:
-[https://github.com/programming-hero-web-course-4/b10a8-gadget-heaven-nbappi13](https://github.com/nbappi13/Gadget-Heaven)
+https://github.com/nbappi13/gadget-heaven
 
 
 # React Fundamental Concepts I Used
